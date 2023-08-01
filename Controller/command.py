@@ -1,5 +1,5 @@
-import Presenter.loadFromFile as lF
-import Presenter.writeToFile as wF
+import View.loadFromFile as lF
+import View.writeToFile as wF
 import Model.Note
 
 def add_note():
